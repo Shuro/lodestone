@@ -47,7 +47,7 @@ module News
 
     # Send a notification if the webhook is newly subscribed
     if status.values.any? && !Redis.current.sismember('all-webhooks', url)
-      Webhooks.send_message(url, 'Lodestone updates will now be posted in this channel. <http://lodestone.raelys.com>')
+	    Webhooks.send_message(url, 'Lodestone updates werden nun in diesem Channel gepostet :heart: <http://lodestone.shuro.de>')
       Redis.current.sadd('all-webhooks', url)
     end
 
