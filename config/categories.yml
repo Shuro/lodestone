@@ -1,42 +1,42 @@
 topics:
   name: 'Topics'
-  url: 'https://na.finalfantasyxiv.com/lodestone/topics'
-  link: 'https://na.finalfantasyxiv.com/lodestone/topics'
-  icon: 'http://lodestone.raelys.com/images/topics.png'
-  thumbnail: 'http://lodestone.raelys.com/images/thumbnail.png'
+  url: 'https://de.finalfantasyxiv.com/lodestone/topics'
+  link: 'https://de.finalfantasyxiv.com/lodestone/topics'
+  icon: 'https://lodestone.shuro.de/images/topics.png'
+  thumbnail: 'https://lodestone.shuro.de/images/thumbnail.png'
   color: 14258475
 
 notices:
   name: 'Notices'
-  url:  'https://na.finalfantasyxiv.com/lodestone/news/category/1'
-  link:  'https://na.finalfantasyxiv.com/lodestone/news/category/1'
-  icon: 'http://lodestone.raelys.com/images/notices.png'
+  url:  'https://de.finalfantasyxiv.com/lodestone/news/category/1'
+  link:  'https://de.finalfantasyxiv.com/lodestone/news/category/1'
+  icon: 'https://lodestone.shuro.de/images/notices.png'
   color: 13421772
 
 maintenance:
   name: 'Maintenance'
-  url:  'https://na.finalfantasyxiv.com/lodestone/news/category/2'
-  link:  'https://na.finalfantasyxiv.com/lodestone/news/category/2'
-  icon: 'http://lodestone.raelys.com/images/maintenance.png'
+  url:  'https://de.finalfantasyxiv.com/lodestone/news/category/2'
+  link:  'https://de.finalfantasyxiv.com/lodestone/news/category/2'
+  icon: 'https://lodestone.shuro.de/images/maintenance.png'
   color: 13413161
 
 updates:
   name: 'Updates'
-  url:  'https://na.finalfantasyxiv.com/lodestone/news/category/3'
-  link:  'https://na.finalfantasyxiv.com/lodestone/news/category/3'
-  icon: 'http://lodestone.raelys.com/images/updates.png'
+  url:  'https://de.finalfantasyxiv.com/lodestone/news/category/3'
+  link:  'https://de.finalfantasyxiv.com/lodestone/news/category/3'
+  icon: 'https://lodestone.shuro.de/images/updates.png'
   color: 7051581
 
 status:
   name: 'Status'
-  url:  'https://na.finalfantasyxiv.com/lodestone/news/category/4'
-  link:  'https://na.finalfantasyxiv.com/lodestone/news/category/4'
-  icon: 'http://lodestone.raelys.com/images/status.png'
+  url:  'https://de.finalfantasyxiv.com/lodestone/news/category/4'
+  link:  'https://de.finalfantasyxiv.com/lodestone/news/category/4'
+  icon: 'https://lodestone.shuro.de/images/status.png'
   color: 10042685
 
 developers:
   name: "Developers' Blog"
-  url:  'https://na.finalfantasyxiv.com/pr/blog/atom.xml'
-  link:  'https://na.finalfantasyxiv.com/pr/blog/'
-  icon: 'http://lodestone.raelys.com/images/developers.png'
+  url:  'https://de.finalfantasyxiv.com/pr/blog/atom.xml'
+  link:  'https://de.finalfantasyxiv.com/pr/blog/'
+  icon: 'https://lodestone.shuro.de/images/developers.png'
   color: 6737151
